@@ -20,7 +20,9 @@ author: Human Agency and Skill
 ###############################################
 
 navbar-links:
+  Dates: "#dates"
   Call for Papers : "#cfp"
+  Contact: "#contact"
   Organisers: "#organisers"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
