@@ -40,7 +40,7 @@ Participants are invited to submit a paper up to **4 pages (excluding references
 
 2. Include your name(s) and affiliation(s) in your paper (single blind review process).
 
-3. Submit the PDF via the following submission form: .
+3. Submit the PDF via the following submission form: [https://forms.fillout.com/t/8RCxGKcGE7us](https://forms.fillout.com/t/8RCxGKcGE7us){:target="_blank"}
 
 ### After Acceptance
 
