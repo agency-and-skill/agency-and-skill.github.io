@@ -18,8 +18,8 @@ This workshop invites researchers and practitioners to critically examine the su
 
 The dates are given in the Anywhere on Earth (AoE) time zone. If the deadline is Day D, the submission period ends at the end of Day D.
 
-- Submission Deadline: **May 4, 2026** (AoE)
-- Notification: **May 18, 2026** (AoE)
+- Submission Deadline: **May 11, 2026** (AoE)
+- Notification: **May 22, 2026** (AoE)
 - Workshop date: **June 22, 2026**
 
 
@@ -33,6 +33,7 @@ Participants are invited to submit a paper up to **4 pages (excluding references
 - **Governance approaches** from an organisational and legal perspective, with regard to requirements and guideleines for implementation and use of AI-systems.	
 - **Theoretical clarifications** regarding the redistribution and renegotiation of responsibilities, as well as deskilling, upskilling, and reskilling.
 - **Provocations or reflections** in relation to the workshop topics.
+- **Motivation Statement** in which you summarise your relevant previous work and explain your motivation for participating in the workshop.
 
 ### How to Submit 
 
@@ -44,13 +45,14 @@ Participants are invited to submit a paper up to **4 pages (excluding references
 
 ### After Acceptance
 
-Accepted submissions, as well as collaborative workshop outputs, will be made available on the workshop website and on a dedicated GitHub repository. Proceedings are non-archival.
+Accepted submissions, as well as collaborative workshop outputs, will be made available on the workshop website and on a dedicated GitHub repository. **Proceedings are non-archival**.
 
-**Please note**, it is required to register for the CHIWORK conference (full‑conference registration or one‑day registration) in order to attend the workshop.
+Please note, it is **required to register** for the CHIWORK conference (full‑conference registration or one‑day registration) in order to attend the workshop.
 
 
 ## Workshop Format
 
+**There is a 25-person limit for in-person attendance.**
 We will share the schedule once it is final. For now, planned activities include:
 
 - Position Paper Presentations
@@ -62,7 +64,6 @@ discussions.
 	- The workshop will conclude with a plenary discussion aimed at identifying shared
 research challenges and opportunities for future collaboration.
 
-There is a 25-person limit for in-person attendance.
 
 ## Aim of the Workshop
 
@@ -79,6 +80,8 @@ AI-supported work.
 	- Identify empirical methods, metrics, and longitudinal study designs capable of assessing both short-term and long-term agency and skills shifts.
 
 ## Any Questions? {#contact}
+
+Further details can be found in the [Workshop paper](CHIWORK_Workshop_Agency_and_Skill.pdf).
 
 In case you have any questions, please send an email to: **agency-and-skill@protonmail.com**
 
