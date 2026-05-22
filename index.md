@@ -85,6 +85,18 @@ Further details can be found in the [Workshop paper](CHIWORK_Workshop_Agency_and
 
 In case you have any questions, please send an email to: **agency-and-skill@protonmail.com**
 
+## Programme Committee
+
+- Pedro Cardoso, University of Porto
+- Daniela Fogli, University of Brescia
+- Markus Langer, University of Freiburg
+- Rosa Lanzilotti, University of Bari
+- Angela Locoro, University of Brescia
+- Tiffany Matej, Jheronimus Academy of Data Science
+- Emanuele Pucci, Polytechnic University of Milan
+- Isabella Silva, Fraunhofer Portugal Research Association
+- Massimo Zancanaro, University of Trento
+
 ## Organisers {#organisers}
 
 {: .no-border}
