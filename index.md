@@ -15,7 +15,7 @@ When AI becomes a routine collaborator at work, what happens to human expertise 
 This workshop invites researchers and practitioners to critically examine the sustainability of human expertise in AI-supported work. We welcome perspectives from HCI, AI, cognitive science, philosophy, organizational studies, healthcare, law, education, and other domains where AI is transforming professional practice. 
 
 
-## Workshop Schedule 22 June
+## Workshop Schedule 22 June {#schedule}
 
 | 09:00 | Welcome and Introduction | |
 | 09:10 | **Kasia Glowicka**, The Space In-Between: Creative Skill and Cognitive Transitions in the Age of Prompt-Based AI | [paper](submissions/Glowicka_2026_Creative-Skill-and-Cognitive-Transitions-in-the-Age-of-Prompt-Based-AI_CHIWORK.pdf)
