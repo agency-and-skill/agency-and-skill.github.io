@@ -14,6 +14,21 @@ When AI becomes a routine collaborator at work, what happens to human expertise 
 
 This workshop invites researchers and practitioners to critically examine the sustainability of human expertise in AI-supported work. We welcome perspectives from HCI, AI, cognitive science, philosophy, organizational studies, healthcare, law, education, and other domains where AI is transforming professional practice. 
 
+
+## Workshop Schedule 22 June
+
+| 09:00 | Welcome and Introduction | |
+| 09:10 | **Kasia Glowicka**, The Space In-Between: Creative Skill and Cognitive Transitions in the Age of Prompt-Based AI | [paper](submissions/Glowicka_2026_Creative-Skill-and-Cognitive-Transitions-in-the-Age-of-Prompt-Based-AI_CHIWORK.pdf)
+| 09:20 | **Stevie Michelle Cline**, Who Learns to Think Like a Lawyer? AI-Assisted Practice and the Erosion of Professional Apprenticeship | [paper](submissions/Cline_2026_Who-learns-to-think-like-a-lawer_CHIWORK.pdf)
+| 09:30 | **Honey Mehta**, The Impact of AI-Assisted Tools on Design Thinking and Skills: Cognitive Offloading, Agency, and the Deskilling of Creative Professionals | [paper](submissions/Mehta_2026_The-Impact-of-AI-Assisted-Tools-on-Design-Thinking-and-Skills_CHIWORK.pdf)
+| 09:40 | **Sander de Jong**, Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement | [paper](submissions/deJong_2026_Open-Questions-Towards-Skill-Sustaining-Reliance-in-Reflective-AI-Engagement_CHIWORK.pdf)
+| 09:50 | Break |
+| 10:00 | Group Activity, Case Study |
+| 11:00 | Break |
+| 11:10 | Group Activity, Presentations and Discussion |
+| 11:50 | Closing |
+
+
 ## Key Dates {#dates}
 
 The dates are given in the Anywhere on Earth (AoE) time zone. If the deadline is Day D, the submission period ends at the end of Day D.
@@ -81,7 +96,7 @@ AI-supported work.
 
 ## Any Questions? {#contact}
 
-Further details can be found in the [Workshop paper](CHIWORK_Workshop_Agency_and_Skill.pdf).
+Further details can be found in the [Workshop paper](submissions/Fregosi_et_al_2026_Human-Agency-and-Skill-in-AI-Supported-Work.pdf).
 
 In case you have any questions, please send an email to: **agency-and-skill@protonmail.com**
 
