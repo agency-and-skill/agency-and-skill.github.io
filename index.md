@@ -17,6 +17,8 @@ This workshop invites researchers and practitioners to critically examine the su
 
 ## Workshop Schedule 22 June {#schedule}
 
+*The workshop is open to all CHIWORK participants, but the number of workshop participants is limited to 25.*
+
 | 09:00 | Welcome and Introduction | |
 | 09:10 | **Kasia Glowicka**, The Space In-Between: Creative Skill and Cognitive Transitions in the Age of Prompt-Based AI | [paper](submissions/Glowicka_2026_Creative-Skill-and-Cognitive-Transitions-in-the-Age-of-Prompt-Based-AI_CHIWORK.pdf)
 | 09:20 | **Stevie Michelle Cline**, Who Learns to Think Like a Lawyer? AI-Assisted Practice and the Erosion of Professional Apprenticeship | [paper](submissions/Cline_2026_Who-learns-to-think-like-a-lawer_CHIWORK.pdf)
@@ -33,8 +35,8 @@ This workshop invites researchers and practitioners to critically examine the su
 
 The dates are given in the Anywhere on Earth (AoE) time zone. If the deadline is Day D, the submission period ends at the end of Day D.
 
-- Submission Deadline: **May 11, 2026** (AoE)
-- Notification: **May 22, 2026** (AoE)
+- ~~Submission Deadline: **May 11, 2026** (AoE)~~
+- ~~Notification: **May 22, 2026** (AoE)~~
 - Workshop date: **June 22, 2026**
 
 
