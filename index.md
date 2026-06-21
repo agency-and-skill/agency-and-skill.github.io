@@ -20,9 +20,10 @@ This workshop invites researchers and practitioners to critically examine the su
 *The workshop is open to all CHIWORK participants, but the number of workshop participants is limited to 25.*
 
 | 09:00 | Welcome and Introduction | |
-| 09:10 | **Kasia Glowicka**, The Space In-Between: Creative Skill and Cognitive Transitions in the Age of Prompt-Based AI | [paper](submissions/Glowicka_2026_Creative-Skill-and-Cognitive-Transitions-in-the-Age-of-Prompt-Based-AI_CHIWORK.pdf)
-| 09:20 | **Stevie Michelle Cline**, Who Learns to Think Like a Lawyer? AI-Assisted Practice and the Erosion of Professional Apprenticeship | [paper](submissions/Cline_2026_Who-learns-to-think-like-a-lawer_CHIWORK.pdf)
-| 09:30 | **Honey Mehta**, The Impact of AI-Assisted Tools on Design Thinking and Skills: Cognitive Offloading, Agency, and the Deskilling of Creative Professionals | [paper](submissions/Mehta_2026_The-Impact-of-AI-Assisted-Tools-on-Design-Thinking-and-Skills_CHIWORK.pdf)
+| 09:10 | Participant Introduction | |
+| 09:20 | **Kasia Glowicka**, The Space In-Between: Creative Skill and Cognitive Transitions in the Age of Prompt-Based AI | [paper](submissions/Glowicka_2026_Creative-Skill-and-Cognitive-Transitions-in-the-Age-of-Prompt-Based-AI_CHIWORK.pdf)
+| 09:30 | **Stevie Michelle Cline**, Who Learns to Think Like a Lawyer? AI-Assisted Practice and the Erosion of Professional Apprenticeship | [paper](submissions/Cline_2026_Who-learns-to-think-like-a-lawer_CHIWORK.pdf)
+|  | ~~**Honey Mehta**, The Impact of AI-Assisted Tools on Design Thinking and Skills: Cognitive Offloading, Agency, and the Deskilling of Creative Professionals~~ | [paper](submissions/Mehta_2026_The-Impact-of-AI-Assisted-Tools-on-Design-Thinking-and-Skills_CHIWORK.pdf)
 | 09:40 | **Sander de Jong**, Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement | [paper](submissions/deJong_2026_Open-Questions-Towards-Skill-Sustaining-Reliance-in-Reflective-AI-Engagement_CHIWORK.pdf)
 | 09:50 | Break |
 | 10:00 | Group Activity, Case Study |
